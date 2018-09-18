@@ -1,0 +1,46 @@
+#cover {
+    background-color: rgba(0, 0, 0, .6);
+}
+
+#headline {
+    background-image: url("https://static.wixstatic.com/media/bdb4edaa35b64340bf06accfca459de9.jpg/v1/fill/w_1960,h_888,al_c,q_85,usm_0.66_1.00_0.01/bdb4edaa35b64340bf06accfca459de9.webp"); /* The image used */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    height: 200px;
+}
+
+#content {
+    color: #666;
+    padding: 175px 0;
+    text-align: center;
+}
+
+#content hr {
+    margin: 40px 0;
+}
+
+#content h1 {
+    font-size: 60px;
+}
+
+#content p {
+    font-size: 30px;
+}
+
+#content a {
+    color: #8147FF;
+}
+
+#content a:hover, #content a:focus {
+    color: #60b;
+}
+
+#content .btn-primary {
+    background-color: #8147FF;
+    color: white;
+    border-color: #8147FF;
+}
